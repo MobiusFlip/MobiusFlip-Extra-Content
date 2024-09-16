@@ -6,6 +6,9 @@
         "minimum": "12",
         "verified": "12"
     },
+    "url": "https://github.com/MobiusFlip/MobiusFlip-Extra-Content/tree/master",
+    "manifest": "https://raw.githubusercontent.com/MobiusFlip/MobiusFlip-Extra-Content/master/mobiusflip-extra-content/module.json",
+    "download": "https://github.com/MobiusFlip/MobiusFlip-Extra-Content/raw/master/mobiusflip-extra-content.zip",
     "id": "mobiusflip-extra-content",
     "esmodules": ["main.mjs"],
     "authors": [
