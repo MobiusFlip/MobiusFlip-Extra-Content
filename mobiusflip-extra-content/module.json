@@ -1,0 +1,67 @@
+{
+    "title": "MobiusFlip's Extra Content",
+    "description": "New and revised classes, subclasses, ancestries, and more in Foundry.",
+    "version": "1.0.0",
+    "compatability": {
+        "minimum": "12",
+        "verified": "12"
+    },
+    "id": "mobiusflip-extra-content",
+    "esmodules": ["main.mjs"],
+    "authors": [
+        {
+            "name": "MobiusFlip",
+            "flags": {}
+        }
+    ],
+    "packs": [
+      {
+        "name": "classes",
+        "label": "Classes",
+        "path": "packs/classes",
+        "type": "Item",
+        "ownership": {
+          "PLAYER": "OBSERVER",
+          "ASSISTANT": "OWNER"
+        },
+        "system": "dnd5e",
+        "flags": {}
+      },
+      {
+        "name": "subclasses",
+        "label": "Subclasses",
+        "path": "packs/subclasses",
+        "type": "Item",
+        "ownership": {
+          "PLAYER": "OBSERVER",
+          "ASSISTANT": "OWNER"
+        },
+        "system": "dnd5e",
+        "flags": {}
+      },
+      {
+        "name": "class-and-subclass-features",
+        "label": "Class & Subclass Features",
+        "path": "packs/class-and-subclass-features",
+        "type": "Item",
+        "ownership": {
+          "PLAYER": "OBSERVER",
+          "ASSISTANT": "OWNER"
+        },
+        "system": "dnd5e",
+        "flags": {}
+      },
+      {
+        "name": "ancestries",
+        "label": "Ancestries",
+        "path": "packs/ancestries",
+        "type": "Item",
+        "ownership": {
+          "PLAYER": "OBSERVER",
+          "ASSISTANT": "OWNER"
+        },
+        "system": "dnd5e",
+        "flags": {}
+      }
+    ]
+}
