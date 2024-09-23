@@ -65,6 +65,42 @@
         },
         "system": "dnd5e",
         "flags": {}
+      },
+      {
+        "name": "talents",
+        "label": "Talents",
+        "path": "packs/talents",
+        "type": "Item",
+        "ownership": {
+          "PLAYER": "OBSERVER",
+          "ASSISTANT": "OWNER"
+        },
+        "system": "dnd5e",
+        "flags": {}
+      },
+      {
+        "name": "spells",
+        "label": "Spells",
+        "path": "packs/spells",
+        "type": "Item",
+        "ownership": {
+          "PLAYER": "OBSERVER",
+          "ASSISTANT": "OWNER"
+        },
+        "system": "dnd5e",
+        "flags": {}
+      },
+      {
+        "name": "spell-lists",
+        "label": "Spell Lists",
+        "path": "packs/spell-lists",
+        "type": "JournalEntry",
+        "ownership": {
+          "PLAYER": "OBSERVER",
+          "ASSISTANT": "OWNER"
+        },
+        "system": "dnd5e",
+        "flags": {}
       }
     ]
 }
