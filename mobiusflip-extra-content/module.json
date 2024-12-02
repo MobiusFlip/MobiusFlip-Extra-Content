@@ -91,9 +91,9 @@
         "flags": {}
       },
       {
-        "name": "spell-lists",
-        "label": "Spell Lists",
-        "path": "packs/spell-lists",
+        "name": "spells-and-techniques",
+        "label": "Spells and Techniques",
+        "path": "packs/spells-and-techniques",
         "type": "JournalEntry",
         "ownership": {
           "PLAYER": "OBSERVER",
