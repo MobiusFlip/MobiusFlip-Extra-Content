@@ -1,7 +1,7 @@
 {
     "title": "MobiusFlip's Extra Content",
     "description": "New and revised classes, subclasses, ancestries, and more in Foundry.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "compatability": {
         "minimum": "12",
         "verified": "12"
