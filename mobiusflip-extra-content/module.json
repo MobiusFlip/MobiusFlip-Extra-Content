@@ -1,7 +1,7 @@
 {
     "title": "MobiusFlip's Extra Content",
     "description": "New and revised classes, subclasses, ancestries, and more in Foundry.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "compatability": {
         "minimum": "12",
         "verified": "12"
@@ -95,6 +95,30 @@
         "label": "Spells and Techniques",
         "path": "packs/spells-and-techniques",
         "type": "JournalEntry",
+        "ownership": {
+          "PLAYER": "OBSERVER",
+          "ASSISTANT": "OWNER"
+        },
+        "system": "dnd5e",
+        "flags": {}
+      },
+      {
+        "name": "summons",
+        "label": "Summons",
+        "path": "packs/summons",
+        "type": "Actor",
+        "ownership": {
+          "PLAYER": "OBSERVER",
+          "ASSISTANT": "OWNER"
+        },
+        "system": "dnd5e",
+        "flags": {}
+      },
+      {
+        "name": "backgrounds",
+        "label": "Backgrounds",
+        "path": "packs/backgrounds",
+        "type": "Item",
         "ownership": {
           "PLAYER": "OBSERVER",
           "ASSISTANT": "OWNER"
